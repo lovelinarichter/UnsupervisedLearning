@@ -8,7 +8,7 @@ In this project, Udacity's partner Bertelsmann AZ Direct and Arvato Financial So
 The goal of this project is to look at relationships between demographics features, organize the population into clusters, and see how prevalent customers are in each of the segments obtained.
 
 ## Installation
-Install project_tests.py and other Anaconda libraries of Python. The code should run with no issues using Python versions 3.*.
+Install Anaconda libraries of Python. The code should run with no issues using Python versions 3.*.
 
 ## File Descriptions
 The data used for this project are available through Udacity's workspace and cannot be shared due Terms and Conditions.
