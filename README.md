@@ -1,5 +1,7 @@
 # Unsupervised Learning
 
+Project: Identify Customer Segments
+
 ## Description
 In this project, Udacity's partner Bertelsmann AZ Direct and Arvato Financial Solutions have provided two datasets one with demographic information about the people of Germany, and one with that same information for customers of a mail-order sales company. 
 
